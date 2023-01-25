@@ -11,8 +11,12 @@ Most of examples are written as Jupyter notebooks and can be run in one click in
 - [Image Captioning](Image_%26_TEXT/Image_Captioning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Image_%26_TEXT/Image_Captioning.ipynb)
 - [OCR 모델을 이용한 Captcha 읽기 예제](Computer_Vision/Captcha_OCR.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Captcha_OCR.ipynb)
 - [U-Net 구조 모델의 Image segmentation 예제](Computer_Vision/Image_segmentation_with_a_U_Net_like_architecture.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Image_segmentation_with_a_U_Net_like_architecture.ipynb)
-- [CNN-RNN구조를 이용한 비디오 분류](Audio_Data/Automatic_Speech_Recognition_using_CTC.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Video/Video_Classification_with_a_CNN_RNN_Architecture.ipynb))
 - [Convolution Autoencoder를 이용한 영상 노이즈 제거](Computer_Vision/Convolutional_autoencoder_for_image_denoising.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Convolutional_autoencoder_for_image_denoising.ipynb))
+
+
+**Video**
+- [CNN-RNN구조를 이용한 비디오 분류](Video/Video_Classification_with_a_CNN_RNN_Architecture.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Video/Video_Classification_with_a_CNN_RNN_Architecture.ipynb))
+- [Transformer를 이용한 비디오 분류 - 추가중](Video/Video_Classification_with_Transformers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Video/Video_Classification_with_Transformers.ipynb))
 
 
 **Audio_Data**
