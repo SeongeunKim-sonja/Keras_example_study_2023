@@ -8,7 +8,7 @@ Most of examples are written as Jupyter notebooks and can be run in one click in
 
 **Computer_Vision**
 
-- [단순한 MNIST CNN - 추가중](Computer_Vision/Simple_MNIST_convnet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Simple_MNIST_convnet.ipynb)
+- [단순한 MNIST CNN](Computer_Vision/Simple_MNIST_convnet.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Simple_MNIST_convnet.ipynb)
 - [Image Captioning](Image_%26_TEXT/Image_Captioning.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Image_%26_TEXT/Image_Captioning.ipynb)
 - [OCR 모델을 이용한 Captcha 읽기 예제](Computer_Vision/Captcha_OCR.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Captcha_OCR.ipynb)
 - [U-Net 구조 모델의 Image segmentation 예제](Computer_Vision/Image_segmentation_with_a_U_Net_like_architecture.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Image_segmentation_with_a_U_Net_like_architecture.ipynb)
