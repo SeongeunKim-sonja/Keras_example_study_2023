@@ -13,6 +13,7 @@ Most of examples are written as Jupyter notebooks and can be run in one click in
 - [OCR 모델을 이용한 Captcha 읽기 예제](Computer_Vision/Captcha_OCR.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Captcha_OCR.ipynb)
 - [U-Net 구조 모델의 Image segmentation 예제](Computer_Vision/Image_segmentation_with_a_U_Net_like_architecture.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Image_segmentation_with_a_U_Net_like_architecture.ipynb)
 - [Convolution Autoencoder를 이용한 영상 노이즈 제거](Computer_Vision/Convolutional_autoencoder_for_image_denoising.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SeongeunKim-sonja/Keras_example_study_2023/blob/main/Computer_Vision/Convolutional_autoencoder_for_image_denoising.ipynb)
+- [Vision Transformer를 이용한 이미지 분류 - 추가중](Computer_Vision/Image_classification_with_Vision_Transformer.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/So-nja/Keras_example_study_2023/blob/main/Computer_Vision/Image_classification_with_Vision_Transformer.ipynb)
 
 
 **Video**
